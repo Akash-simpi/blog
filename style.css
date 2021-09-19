@@ -1,0 +1,67 @@
+body{
+    background-color:antiquewhite;
+    font-family: 'Times New Roman', Times, serif, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 10px;
+    margin:0px;
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    height: 50px;
+    margin-bottom: 10%;
+    
+        
+    
+}
+header{
+    color:white;
+    background-color: #3d5c5c;
+    padding-top: 70px;
+    border-bottom: #e60000 3px solid ;
+    text-align: center;
+    padding-top: 2%;
+
+
+    
+}
+p{
+    height: 25px;
+    color: chocolate;
+    text-align: center;
+    padding-top: 2%;
+
+}
+b{
+    color: black;
+    padding-bottom:50%;
+    text-transform: capitalize;
+}
+img{
+    width: 50%;
+    height:500px;
+    float: left;
+    padding: 25%;
+}
+/* section services*/ 
+ footer{
+     
+    padding:20px;
+    background-color: #8b2727;
+    text-align: center;
+    color:white;
+    float: left;
+    width:100%;
+
+}
+/*section photocopy*/
+#photocopy{
+color: burlywood;
+margin-bottom: 50%;
+background-color: burlywood;
+    
+
+}
